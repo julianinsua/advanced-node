@@ -1,0 +1,12 @@
+{
+  "name": "advanced-node",
+  "version": "1.0.0",
+  "description": "Advanced Node Course codealong",
+  "main": "index.js",
+  "repository": "git@github.com:julianinsua/advanced-node.git",
+  "author": "Julian Insua <jii.julious@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
